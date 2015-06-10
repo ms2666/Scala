@@ -1,0 +1,45 @@
+2015-06-08 20:02:58,731  WARN [ModalContext] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:02:58,733  WARN [ModalContext] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:02:59,038  WARN [Worker-4] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:02:59,039  WARN [Worker-4] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:03:15,924  WARN [Worker-4] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:03:15,930  WARN [Worker-4] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:03:15,950  WARN [Worker-4] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:03:15,950  WARN [Worker-4] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:03:57,043  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:03:57,046  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:03:57,182  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:03:57,183  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:03:57,202  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:03:57,203  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:06,866  WARN [main] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:06,866  WARN [main] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:11,799  WARN [main] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:11,885  WARN [main] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:12,162  WARN [Worker-5] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:12,163  WARN [Worker-5] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:12,179  WARN [Worker-5] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:12,180  WARN [Worker-5] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:17,426  WARN [Worker-5] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:17,427  WARN [Worker-5] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:22,539  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:22,539  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:22,555  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:22,555  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:04:22,577  WARN [Worker-0] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:04:22,578  WARN [Worker-0] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:09:49,037  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:09:49,040  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:09:49,055  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:09:49,055  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:09:51,624  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:09:51,624  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:10:33,191  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:10:33,191  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:10:33,207  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:10:33,208  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:10:34,530  WARN [Worker-6] - ScalaProject - Project Learning has platform default sourceLevel.
+2015-06-08 20:10:34,530  WARN [Worker-6] - ScalaProject - Project Learning runs on platform default installation.
+2015-06-08 20:10:57,279 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-06-08 20:10:57,281 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-06-08 20:10:57,282 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

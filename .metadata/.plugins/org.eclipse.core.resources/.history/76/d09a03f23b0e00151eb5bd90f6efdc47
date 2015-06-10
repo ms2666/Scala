@@ -1,0 +1,10 @@
+package learning01
+
+/**
+ * @author mukundsudarshan
+ */
+object scala {
+  def main(args : Array[String]) {
+    
+  }
+}
